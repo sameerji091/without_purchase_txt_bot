@@ -1,0 +1,2 @@
+# without_purchase_txt_bot
+without_purchase_txt_bot
